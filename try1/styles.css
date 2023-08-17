@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+canvas {
+  width: 600px;
+  height: 700px;
+  border: 1px solid white;
+}
+
+.tombol{
+  color: white;
+  display: flex;
+  text-align: center;
+  padding: 8px;
+  font-size:xx-large;
+}
